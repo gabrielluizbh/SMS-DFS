@@ -1,4 +1,4 @@
-# Comandos para migração de DFS com Storage Migration Service.
+# Script para migração de DFS com Storage Migration Service.
 
 **Conteúdos:**
 
