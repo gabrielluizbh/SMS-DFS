@@ -4,6 +4,8 @@
 
 Script para migração de DFS com Storage Migration Service.ps1
 
+**Alguns passos são necessários para essa migração, em resumo são esses:**
+
 ![caminhosparamigracaodfs](https://user-images.githubusercontent.com/31531703/200129236-d87306f4-05f3-467b-89c5-4fb31e8afea6.png)
 
 
